@@ -1,0 +1,9 @@
+9. VIDEO LINKS OF EACH DEMO
+
+
+
+playlist - https://www.youtube.com/playlist?list=PL5RuXbzEXwesoMc_Fql0MObBBz-9phIft
+
+Heartrate circuit functioning - https://youtu.be/g1nvmksnAwo
+Heartrate before filtering - https://youtu.be/ZfCkhiwIAkg
+Heartrate after filtering - https://youtu.be/UEHIkM5jgPI
